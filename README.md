@@ -13,10 +13,10 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 ### Round 1
 
-* ✗ [A1: Weak Typing (Chapter 1)][round1A1] (`weak-typing-1`)
-* ✗ [A2: Weak Typing (Chapter 2)][round1A2] (`weak-typing-2`)
-* ✗ [A3: Weak Typing (Chapter 3)][round1A3] (`weak-typing-3`)
-* ✗ [B: Traffic Control][round1B] (`traffic-control`)
+* ✓ [A1: Weak Typing (Chapter 1)][round1A1] (`weak-typing-1`)
+* ✓ [A2: Weak Typing (Chapter 2)][round1A2] (`weak-typing-2`)
+* ✓ [A3: Weak Typing (Chapter 3)][round1A3] (`weak-typing-3`)
+* ✓ [B: Traffic Control][round1B] (`traffic-control`)
 
 [1]: https://www.facebook.com/codingcompetitions/hacker-cup
 [qualA1]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A1
